@@ -4,7 +4,7 @@
 
 - Registration: [Free](https://springone.io/register) 
 
-- Format: Online streaming of 5 Live Tracks of Content
+- Format: Online streaming of [5 Live Tracks of Content](https://springone.io/2020/sessions)
   - Beginner-Friendly Spring 
   - Intermediate/Adv Spring 
   - Architecture 
@@ -28,8 +28,8 @@
   - Serverless/Microservices 
   - Transformation Case Studies 
 
-- 15 ~ 90 mins Free Hands-on Workshops (with limited availability):
-  - Getting started with .NET SteelToe (90 mins)
+- 15 ~ 90 mins [Free Hands-on Workshops](https://springone.io/2020/workshops) (with limited availability):
+  - [Getting started with .NET SteelToe](https://springone.io/2020/workshops/steeltoe) (90 mins)
   - Getting started with Spring Boot (90 mins)
   - Getting Started with Spring Boot on Kubernetes (15 mins)
   - Getting started with Spring Cloud (90 mins)
