@@ -38,6 +38,6 @@
   - Building Event-Driven DevOps Workflows for Kubernetes with Knative and Tekton (90 mins)
   - Octant Testing (30 mins)
   
-- The only gotcha ... You have to sign-up for the workshops starting Aug 31st, 2020 at Noon (ET) because there's a limited number of seats per workshop.
+- The only gotcha ... sign-up for the workshops on Aug 31st, 2020 at Noon (ET) because there are a limited number of seats per workshop.
 
 
